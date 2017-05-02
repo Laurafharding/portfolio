@@ -1,1 +1,2 @@
-This is my portfolio, which is hosted on gh pages.
+This is my portfolio, which is hosted here on github.
+Take a look here > https://laurafharding.github.io/portfolio/
